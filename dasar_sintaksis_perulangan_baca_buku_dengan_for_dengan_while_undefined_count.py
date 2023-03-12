@@ -22,3 +22,6 @@ if understood_count == book_count:
 else:
     print(f'"Bu, tidak semua buku bisa dipahami. '
           f'Budi hanya bisa memahami {understood_count} buku')
+
+book_count = 'Banyak'
+print(book_count)
